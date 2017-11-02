@@ -1,6 +1,7 @@
 # Учебный проект «Барбершоп»
 
 * Студент: [Анастасия Яковлева](https://up.htmlacademy.ru/htmlcss/19/user/311007).
+* Наставник: [Алексей Гурьев](https://up.htmlacademy.ru/htmlcss/19/user/205403).
 
 ---
 
